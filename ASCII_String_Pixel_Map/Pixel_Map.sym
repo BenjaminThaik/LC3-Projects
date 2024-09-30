@@ -1,0 +1,18 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	GETSTRNG          3006
+//	ROWLOOP           300F
+//	CHARLOOP          3011
+//	COLUMNLOOP        301D
+//	OUTPUTCHAR0       3022
+//	OUTPUT            3023
+//	CHAR0             3036
+//	CHAR1             3037
+//	CHARACTER         3038
+//	OFFSET            3039
+//	MASK              303A
+//	STRNG             3042
+//	STRLEN            3052
+//	SAVER7            3053
